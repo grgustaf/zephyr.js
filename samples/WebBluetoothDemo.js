@@ -8,7 +8,7 @@ var ble = require("ble");
 var pwm = require("pwm");
 var pins = require("arduino101_pins");
 
-var DEVICE_NAME = 'Arduino101';
+var DEVICE_NAME = 'Zephyr';
 
 var TemperatureCharacteristic = new ble.Characteristic({
     uuid: 'fc0a',
