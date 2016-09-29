@@ -4,6 +4,9 @@ This purpose of this project is to provide a JavaScript API and environment
 for IoT development on low-memory systems, using JerryScript and the Zephyr
 operating system.
 
+BJONES ddoing some stuff here with extra whitespace       
+			
+
 This code requires a local copy of JerryScript and Zephyr source, and we
 will upstream code to those projects as appropriate, but this repo is for
 everything else.
