@@ -72,6 +72,13 @@ var setupData = new Buffer(2);
 // This will allow this to be written like this instead
 // var msgData = new Buffer(String.fromCharCode(GLCD_CMD_SET_CGRAM_ADDR) + "HELLO!");
 
+function someFakeFunction() {
+	//This does nothing!
+
+	if (true)
+		print("Zephyr rulez!");
+}
+
 var msgData = new Buffer("@HELLO!");
 
 var hello = false;

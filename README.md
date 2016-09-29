@@ -37,6 +37,11 @@ $ sudo ./zephyr-sdk-0.*.*-i686-setup.run
 From now on, we assume you have cloned this git repo and are working from its
 root directory.
 
+BJONES further editing to try and fill up geoff's mailbox
+blah blah 
+
+blah blah
+blah blah blah
 Next, set up the Zephyr SDK environment variables. It is recommended that you
 add the following two lines to your `.bashrc` so that you don't have to type
 them again. If you installed your Zephyr SDK elsewhere, adjust as needed.
