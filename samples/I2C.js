@@ -73,10 +73,10 @@ var setupData = new Buffer(2);
 // var msgData = new Buffer(String.fromCharCode(GLCD_CMD_SET_CGRAM_ADDR) + "HELLO!");
 
 function someFakeFunction() {
-	//This does nothing!
+    //This does nothing!
 
-	if (true)
-		print("Zephyr rulez!");
+    if (true)
+        print("Zephyr rulez!");
 }
 
 var msgData = new Buffer("@HELLO!");
